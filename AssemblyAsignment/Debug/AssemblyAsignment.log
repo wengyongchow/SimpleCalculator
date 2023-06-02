@@ -1,0 +1,3 @@
+﻿  Assembling ChowWengYong.asm...
+C:\irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  AssemblyAsignment.vcxproj -> C:\Users\yangz\Desktop\yong yang\Degree\y2s3\Computer Organization\AssemblyAsignment\Debug\AssemblyAsignment.exe
